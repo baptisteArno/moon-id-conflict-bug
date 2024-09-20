@@ -1,0 +1,9 @@
+{
+  "name": "@repo/consumer",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "@repo/blocks-core": "workspace:*",
+    "@repo/forge-core": "workspace:*"
+  }
+}

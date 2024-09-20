@@ -1,0 +1,5 @@
+{
+  "name": "@repo/core",
+  "module": "index.ts",
+  "type": "module"
+}

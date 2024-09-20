@@ -1,0 +1,5 @@
+{
+  "name": "@repo/blocks-core",
+  "module": "index.ts",
+  "type": "module"
+}

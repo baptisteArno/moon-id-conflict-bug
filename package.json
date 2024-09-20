@@ -1,0 +1,8 @@
+{
+  "name": "moon-duplicate-id-bug",
+  "workspaces": [
+    "packages/*",
+    "packages/blocks/*",
+    "packages/forge/*"
+  ]
+}
